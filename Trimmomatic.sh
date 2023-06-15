@@ -14,8 +14,8 @@
 #
 
 # script to perform trimmomatic trimming of paired end reads
-# usage: sbatch trimmomatic_trainingPrompts.sh readPath outputsPath
-# usage Ex: sbatch trimmomatic_trainingPrompts.sh /scratch/bhavani/GBCF_Data/Adipocyte/220705_Yoon_Adipocyte_Pool2_RNAseq /scratch/himi/analysis
+# usage: sbatch Trimmomatic.sh readPath outputsPath
+# usage Ex: sbatch Trimmomatic.sh /scratch/bhavani/GBCF_Data/Adipocyte/220705_Yoon_Adipocyte_Pool2_RNAseq /scratch/himi/analysis
 
 
 # required software for OSCER
