@@ -14,7 +14,7 @@
 #
 # script to run htseq-count on trimmed, aligned, and name sorted paired end reads
 # usage: sbatch htseq.sh inputsFile outputsFile genomeFeatures
-# usage Ex: sbatch htseq.sh /scratch/himi/analysis/sorted /scratch/himi/analysis /scratch/bhavani/Adipocyte/Mus_musculus.GRCm39.108.gtf
+# usage Ex: sbatch htseq.sh /scratch/himi/analysis/sorted /scratch/himi/analysis /scratch/bhavani/Project1/Adipocyte/Mus_musculus.GRCm39.108.gtf
 # usage Ex: sbatch htseq.sh /YOUR/PATH/Jurkat/sorted /YOUR/PATH/Jurkat /YOUR/PATH/Jurkat/....gtf
 
 # required software for OSCER
